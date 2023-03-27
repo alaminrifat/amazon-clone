@@ -35,7 +35,11 @@
     border-radius: 0px 0px 8px 8px;
     position: absolute;
     bottom: 0;
+    height: 45px;
+
+
 }
 .btn-cart:hover{
+    cursor: pointer;
     background: #f0b865;
 }
